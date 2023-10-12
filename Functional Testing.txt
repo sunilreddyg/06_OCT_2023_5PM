@@ -1,0 +1,138 @@
+System testing:-->
+
+		=> System testing is a blackbox testing technique
+		=> During system testing separate testing team involve
+		   to verify external behaviour of application..
+
+		=> It mainly categorized into two types 
+			=> Functioal testing.		[How software is working]
+			=> Non functional testing.	[How software is performing]
+
+		Functional Testing:-->
+			=> Testers check client important features working
+			   with in software.
+
+			=> What is the real purpose of software developed
+			   whether it is functioning at end user level is
+			   called functional testing.
+
+
+			Behavioural testing:-->
+				During this test QA team verify software
+				is responding at end user level.
+		
+				Tester check availability of screens and
+				each screen responding to end customer.
+
+	
+				What exactly tester verify during behavioural testing?
+
+					Tester open software and try to access every
+					page available at software. If any page does't
+					open or failed to access tester report a defect
+					to development team
+
+				Mostly what kind of defects come ?
+
+					=> Page not found  [404 Error]
+					=> Application server error
+					=> Blank pages
+					=> Broken links
+					=> SQl Connection error
+
+				Note:--> If software break down user not able to access
+					software featurs. Testing team suspend 								software testing and ask development team to 							install new software.
+					
+					ShowStopper Defects:-->
+						If there is no work arround to continue
+					testing . QA ream report as show stopper defect
+
+
+			GUI Testing[Graphical user interface testing]:-->
+				Testing team verify look and feel of the software.
+				
+				for Example:-->
+					=> Verify background color availability
+					=> Verify page alignment at center
+					=> Verify margins available at 4 sides
+						[Left to right and Top to bottom]
+					=> Verify text visibility,font names and font sizes
+					
+				Note:-->  Tester report GUI defects to development
+					  All GUI defects are not high seviority issues
+					  mostly it is low seviority issues.
+					=> In some softwares GUI testing is a non 
+						functional testing.
+
+			InputTesting:-->
+				Testing team verify whether softwar is accepting
+				all inputs from end user.
+
+				Tester verify sofware is accepting all interactions
+				with [Mouse and Keyboard and touch]
+
+				What type of input fields contains softwares:-->
+					=> Textbox
+					=> Radio Button
+					=> Check box
+					=> Button
+					=> TABS
+					=> Dropdown
+					=> list of Options 
+					=> Comboboxes
+					=> Calendar
+					=> Auto Complete box
+					=> Sorting options
+					=> selectables
+					=> Drag and Drop
+
+			
+			OutputTesting:-->
+				Tester operate software with valid inputs
+				inorder to verify correctness of output..		
+
+
+				Note:--> Most of outputs display in text
+					format. Also outputs can be 
+					validate using object and object behaviour.
+
+
+				For Example:-->
+					When user enter valid mobile number at edit
+					field Next button will enabled and ready to click.						Same button disabled when user enter invalid mobile 					number	
+			
+					
+			ErrorTesting:-->
+				Tester operate software with invalid inputs in order
+				to check software is preventing invalid actions and
+				displaying appropriate error information..
+
+				
+				For Example:-->
+					=> Error message display when user left filling
+						important information
+
+					=> Error info display when user attempt invalid 						actions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			  
+
+
+		
