@@ -1,0 +1,128 @@
+User Acceptance testing:-->
+
+		=> It is a final state of testing. After UAT software
+			will be releases to client.
+
+		=> It is finaly chance organization to find defects
+
+		=> It will work like final agreement testing between
+			cient and organization..
+
+
+		1. Alpha testing
+		2. Beta testing
+		3. Operational Acceptance testing
+		4. Regulation Acceptance testing
+		5. Control Acceptance testing
+
+
+		Alpha testing:-->
+			=> Also known for factory level testing or
+				inhouse testing.
+			=> During alpha testing organization form a
+			   team. The team includes of [Developers, Testers]
+			=> This team perform testing to identify QA
+				leackages from Testing team
+
+			Defect Leackage:-->
+				When defect identified by the END users.
+
+			Alpha team:-->
+				who is not involved in current project
+				development and testing.
+
+			Note:-->
+				After alpha testing successful. organization
+			ask client to use software and give feedback.during this visit
+			client can ask any last minite changes on software.
+
+
+
+		Beta testing:-->
+			=>Organization handover software to real users
+				and model users to invole in testing.
+
+			=>Beta tester verify software is meeting end 
+				customer  requirements.
+
+
+			Model Users:-->
+				[Industry experts, sales team, marketing team 					----etc]
+
+			Real Users:-->
+				Real public 
+			
+		What is the disadvantages of UAT testing:-->
+			=> lack of training 
+			=> Poor communitation with development team
+			=> Poor knowledge in defect reporting tools
+
+			
+			
+		Operational acceptance testing:-->
+
+			Check stability, performance, compatibility
+			reliability of software before shipment.
+
+
+		Regulation Acceptance testing:-->
+			Check Organization followed all terms and 
+			conditions [Rules and regulations] to develop 
+			software.
+
+		Contract Acceptance testing:-->
+			
+			Check software is developed as agreed with
+			client and software meet all acceptancy 
+			criteria which is mentioned in contract.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
